@@ -1,10 +1,10 @@
 # IMDB Dataset Analysis
 
-This project involves analyzing the IMDB movie reviews dataset using Python in Google Colab. The analysis includes data exploration and deriving insights from the dataset.
+This project involves analyzing the IMDB movie reviews dataset using Python in Google Colab. The analysis includes data exploration, data cleaning, and deriving insights from the dataset.
 
 ## Introduction
 
-The IMDB dataset contains movie reviews along with their associated sentiment (positive or negative). This project aims to explore the dataset, visualize the findings. The analysis is conducted using Python in Google Colab.
+The IMDB dataset contains movie reviews along with their associated sentiment (positive or negative). This project aims to explore the dataset, clean the data, perform exploratory data analysis (EDA), and visualize the findings. The analysis is conducted using Python in Google Colab.
 
 ## Dataset
 
